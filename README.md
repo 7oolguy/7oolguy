@@ -6,7 +6,7 @@ Software Engineer
 
 My programming journey began in middle school, sparked by creating an AI project in Python that learned to communicate, earning top marks and igniting my passion for coding. Over the years, I've mastered JavaScript, HTML, CSS, C, C++, C#, Lua, and delved into mobile app development with Dart and Flutter, crafting three applications and working on more. Future goals? Evolving as a software engineer and establishing my own software company. I'm exploring diverse technologies to broaden my skill set and contribute innovative solutions in software development. Problem-solving approach? I visualize challenges on paper, dissect their logical components, and thrive in collaborative team environments, valuing diverse perspectives for optimal outcomes.
 
-* 🌍  I'm based in São Paulo
+* 🌍  I'm based in São Paulo - Brazil
 * 🖥️  See my portfolio at [I am currently working on it](http://notfound.com)
 * ✉️  You can contact me at [yansilva.work@gmail.com](mailto:yansilva.work@gmail.com)
 * 🚀  I'm currently working on [A app for people that need to work](http://github.com/7oolguy/MarkServApp)
